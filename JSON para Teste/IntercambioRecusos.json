@@ -1,0 +1,29 @@
+[
+    {
+        "hospital": {
+            "id": 2
+        },
+        "resources": [
+            {
+                "id": 1
+            },
+            ,
+            {
+                "id": 2
+            }
+        ]
+    },
+    {
+        "hospital": {
+            "id": 1
+        },
+                "resources": [
+            {
+                "id": 3
+            },
+            {
+                "id": 4
+            }
+        ]
+    }
+]

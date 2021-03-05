@@ -1,0 +1,47 @@
+{
+    "name": "Samaritano",
+    "address": "Epitacio Pessoa",
+    "cnpj": "123450001230",
+    "coordinates": "-78987, 987654",
+    "phones": [
+        "32442309",
+        "987768765"
+    ],
+    "resouces": [
+        {
+            "name": "Respirador",
+            "score": 5
+        },
+        {
+            "name": "Ambulância",
+            "score": 10
+        },
+        {
+            "name": "Tomógrafo",
+            "score": 12
+        },
+        {
+            "name": "Tomógrafo",
+            "score": 12
+        },
+        {
+            "name": "Ambulância",
+            "score": 10
+        },
+        {
+            "name": "Ambulância",
+            "score": 10
+        },
+        {
+            "name": "Ambulância",
+            "score": 10
+        },
+        {
+            "name": "Ambulância",
+            "score": 10
+        }
+    ],
+    "occupation": {
+        "percent": 90.3
+    }
+}

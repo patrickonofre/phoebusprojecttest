@@ -1,0 +1,36 @@
+Lista de Endpoints
+
+(Get)
+Retorna Hospital 
+http://localhost:8080/hospital/{id}
+
+Percentual de hospitais com ocupação acima de 90%
+http://localhost:8080/hospital/report/90up
+
+Percentual de hospitais com ocupação abaixo de 90%
+http://localhost:8080/hospital/report/90down
+
+Retorna o hospital a mais tempo com ocupação acima de 90%
+http://localhost:8080/hospital/report/maxtime
+
+Retorna o hospital a menos tempo com ocupação acima de 90%
+http://localhost:8080/hospital/report/mintime
+
+Retorna a média de recursos existentes para todos hospitais
+http://localhost:8080/resource/avg
+
+Retorna a ocupação do hospital passado pelo parâmetro id 
+http://localhost:8080/occupation/{id}
+
+Retorna todas os intercambios realizados
+http://localhost:8080/exchange/all
+
+(Post ou Put)
+Cadastrar hospital 
+http://localhost:8080/hospital
+
+Atualiza a ocupação por hospital
+http://localhost:8080/occupation
+
+Salva um novo intercâmbio de recursos
+http://localhost:8080/exchange
